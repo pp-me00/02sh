@@ -1,0 +1,737 @@
+[
+  {
+    "name": "Aung Myint Moh Insurance",
+    "category": "Banking and finance",
+    "info": ""
+  },
+  {
+    "name": "Aung Thitsar Oo Insurance",
+    "category": "Banking and finance",
+    "info": ""
+  },
+  {
+    "name": "Premium Gold",
+    "category": "Cigarettes",
+    "info": ""
+  },
+  {
+    "name": "Red Ruby",
+    "category": "Cigarettes",
+    "info": ""
+  },
+  {
+    "name": "MECtel",
+    "category": "Communications",
+    "info": ""
+  },
+  {
+    "name": "Mytel",
+    "category": "Communications",
+    "info": ""
+  },
+  {
+    "name": "Berger Paint",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Elephant King Cement (Sin Minn Cement)",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Myin Pyan Cement (Flying Horse Cement)",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Rhino Cement",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Rhinoceros Cemec (Cement)",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Sigma Cable",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Tristar Steel",
+    "category": "Construction",
+    "info": ""
+  },
+  {
+    "name": "Myanmar Media 7",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "7 Sense Creation",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Central Hotel Yangon",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Diamond White Restaurant Yangon",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Hanthawaddy Golf Course",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Indoor Skydiving",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Tours & Travel",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Travels & Tours",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Nan Myaing Cafe (Pwin Oo Lwin)",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Okkala Golf Resort",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Royal Sportainmnet Bowling Alley",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Royal Sportainment Complex",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Royal Sportainment Ice Skating",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Shwe Gandamar Ballroom (Pathein)",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Shwe Gandamar Grand Ballroom (Yangon)",
+    "category": "Entertainment/Tourism",
+    "info": ""
+  },
+  {
+    "name": "Adipati Rice (AAPT Rice)",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Akasi Long Grain Rice",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Andaman Gold Blue",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Andaman Gold Special",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Black Shield Stout",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Beverages",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Dairy Plant",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Extra Strong Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Fresh Lemon Sparkling",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Fresh Soda",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Gin",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Lager Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Light Lager Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Malta Fresh",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Rum",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Single Malt Lager Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dagon Super Lager Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Fleur Marguerite Sunflower Rice",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Kirin Ichiban",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Mandalay Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Mandalay Brewery",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Mandalay Spirulina Anti-aging Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Mandalay Strong Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Mandalay Super Fresh Lager",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "MEC Myanmar Rice",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Moon Dairy Creamer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Myanmar Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Myanmar Brewery",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Myanmar Premium Beer",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Nan Myaing Coffee",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Nay Pyi Taw Water",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pin Lei Premium Marine Products",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Pyin Oo Lwin Coffee",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Royal Karaweik Sugar",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Seven7 Condensed Milk",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Shwe Phe Oo Teamix",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Sugamec",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Sun Condensed Milk",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Health & Beauty Products",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dentomec Toothbrushes",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Dentomec Toothpaste",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Life Coconut Oil (moistruiser)",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Padonma Soap",
+    "category": "Food & Drink",
+    "info": ""
+  },
+  {
+    "name": "Defence Services General Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Defence Services Live Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Defence Services Medical Research Centre",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Defence Services Obstetrics, Gynaecology and Child Health Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Defence Services Orthopaedics Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Kan Thar Yar Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Military Institure of Nursing and Paramedical Science",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "No.2 Military Hospital",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Thamadaw Special Clinic",
+    "category": "Health Servcies",
+    "info": ""
+  },
+  {
+    "name": "Indagaw Industrial Zone",
+    "category": "Industrial Estates/Offices",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Bank Luxury Complex",
+    "category": "Industrial Estates/Offices",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pinlae Industrial Estate",
+    "category": "Industrial Estates/Offices",
+    "info": ""
+  },
+  {
+    "name": "Pyinmabin Industrial Estate",
+    "category": "Industrial Estates/Offices",
+    "info": ""
+  },
+  {
+    "name": "Ahlone International Port Terminal 1, Yangon",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Container Transport and Port Clearance Yard (Ywama)",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Five Star Shipping Company – ships owned: Chindwin, Coco Gyun, Sawei, Ha-Kha, Han Thar, Hpa-an, Htone-Ywa, Kengtung, Kyaukpyu, Lashio, Loikaw, Maan Aung, Mawlamyine, Myit Kyi Na, Pagan, Pha Shwe Gyaw Ywa, Shweli, Sittwe, Taung Gyi, Thanlwin, U Thar, Yaan Byae.",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Hlaing Dry Port, Inland Container Depot (IDC) and Logistics Centre",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Hteedan International Port Terminal, Yangon",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Inland Container Depot (IDC) Hlaing Thar Yar",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Lann Pyi Marine",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "MEC Container Transport",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Thilawa Shipbreaking Yard",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "TMT Port Terminal, Yangon",
+    "category": "International Trade",
+    "info": ""
+  },
+  {
+    "name": "Life Coconut Charcoal Briquettes",
+    "category": "Manufacturing",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pinlae Fishmeal",
+    "category": "Manufacturing",
+    "info": ""
+  },
+  {
+    "name": "Silver Sea Paper Carton Box Production",
+    "category": "Manufacturing",
+    "info": ""
+  },
+  {
+    "name": "Thunder Sulphuric Acid",
+    "category": "Manufacturing",
+    "info": ""
+  },
+  {
+    "name": "Tristar Tyres",
+    "category": "Manufacturing",
+    "info": ""
+  },
+  {
+    "name": "Knowledge Light Magazine",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Books",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Documentary TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Family TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Media",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Movies TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Music TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Series TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Shopping TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "MWD Variety TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy (MWD) TV Channel",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Television",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Daily",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Magazine",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Tar Yi Magazine",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Tayza (Children's Cartoon Magazine)",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Thazin FM Radio",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "The Union Daily",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "Yandanarpon Daily",
+    "category": "Media",
+    "info": ""
+  },
+  {
+    "name": "547 Minimarts",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Adipati Rice Mill Shops",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Golden Land Duty Free Shops",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Petrol Shop (Station)",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Ruby Mart (Yangon & Pyin Oo Lwin)",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Satake Showroom",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Shwe Gandamar",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Starmart Nine Mile Showroom",
+    "category": "Retail",
+    "info": ""
+  },
+  {
+    "name": "Adipati Agricultural Produce Trading",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Myawaddy Trading Ltd",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pinlae Cold Store",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pinlae Fisheries Company Ltd",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Ngwe Pinlae Livestock Breeding and Fisheries Company",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Shwe Gandamar International Trading",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Shwe Innwa Gems",
+    "category": "Trading Companies",
+    "info": ""
+  },
+  {
+    "name": "Adipati (AAPT) Waterway Transport",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Bandoola Taxi",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Bandoola Transportation",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "City Liner Bus Services",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Parami CNG Station",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Parami Express",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Parami Taxi",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Pathein Thu Express",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Sales and Service Centre, Mingalardon Township, Yangon (vehicle repairs and spare parts)",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Shan Ma Lay Express",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Shwe Man Thu Highway Bus Station",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Shwe Mann Thu Express (also spelt Shwe Man Thu)",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Shwe Myaing Thu Express",
+    "category": "Transport",
+    "info": ""
+  },
+  {
+    "name": "Than Myan Thu Express",
+    "category": "Transport",
+    "info": ""
+  }
+]
